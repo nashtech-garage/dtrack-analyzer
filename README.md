@@ -71,9 +71,5 @@ Upon successful execution, the application will generate a CSV file with the spe
   If you experience issues related to missing modules, ensure that you have activated your virtual environment and that all packages are installed via `pip install -r requirements.txt`.
 
 ## Contributors
-
-This project exists thanks to all the people who contribute.
-
-## Contributors
 - [Vinh Tu Quoc](https://github.com/vinh123456789)
 - [Anh Nguyen Sieu](https://github.com/sieunhantanbao)
